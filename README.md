@@ -1,6 +1,8 @@
 # Lenovo-Xiaoxin-Air14-2019-IWL-Hackintosh-EFI
 联想小新Air14 2019 IWL 完美EFI
 
+### 请不要从上方直接点击`code`按钮下载zip。应该从`Releases`那里获得真正的EFI压缩包文件。因为只有Releases那里的是及时更新的！！！
+
 ![截屏2022-07-01 17.52.04.png](https://s2.loli.net/2022/07/01/ht8BsM345TFYPy9.png)
 
 ### 最近更新：2022.7.1（放暑假啦）
