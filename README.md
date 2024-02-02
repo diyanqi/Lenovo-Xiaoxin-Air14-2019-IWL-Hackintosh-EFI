@@ -1,5 +1,7 @@
 # Lenovo-Xiaoxin-Air14-2019-IWL-Hackintosh-EFI
-联想小新Air14 2019 IWL 完美EFI
+联想小新Air14 2019 IWL 完美（？）EFI
+
+> macOS Sonoma 暂无适配计划。
 
 ### 请不要从上方直接点击`code`按钮下载zip。应该从`Releases`那里获得真正的EFI压缩包文件。因为只有Releases那里的是及时更新的！！！
 
